@@ -24,7 +24,6 @@
                     <router-view></router-view>
                     <hr class="d-sm-none" />
                   </div>
-
                 </div>
               </div>
         </div>
